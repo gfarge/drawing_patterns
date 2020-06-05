@@ -1,0 +1,53 @@
+Subduction zones like the ones ashore of Japan, Alaska or Chile produce the
+largest earthquakes (up to magnitude 9), as an oceanic plate suddenly
+slips down into the earth mantle, rubbing against the continental plate.
+They also produce a constant
+chatter of much smaller and subtler earthquakes (below magnitude 2), providing 
+an almost continuous flow of information on the state of stress that the subduction
+interface is under, and ideally, on the chances of an earthquake happening.
+
+The activity of these earthquakes draws swarm-like patterns: they buzz for a
+while and then die as fast as they emerged, intermittently, sometimes even
+periodically, migrating along the fault (1 km/day to 10 km/hr).
+
+The mechanism producing those patterns is not well understood.
+Unstable fluid flow within the subduction
+interface is suspected to drive the emergence, extinction and
+migrations of the earthquake swarms. At 40 km depth, under high
+pressure (10 000 atmospheric pressure) and temperature (~ 500 K), the fluid
+is in a super-critical state. It is composed of water and dissolved
+mineral elements coming from the dehydration of the subducting plate, as it
+dives into the ever hotter and denser Earth mantle.
+
+Our work is an attempt to test if simple earthquake sources triggered by, and
+communicating through fluid pressure in the subduction fault only could
+reproduce the swarm-like patterns of activity we observe in the field.
+
+We model fluid diffusion in a porous, linear channel on the fault interface
+between plates. The throbbing blue band in the lower panel of the animation
+shows the distribution of fluid in the channel as it diffuses. The larger the
+band, the denser the fluid is packed at this location. 
+
+The vertical stripes are earthquake sources along the fault channel, modeled as valves.  
+When closed, they appear in gray, and block the flux. It causes fluid to
+accumulate behind them and be depleted above, until the fluid pressure forces
+them to brutally release it, triggering an earthquake, detected in the
+top panel. They then close when the pressure comes back to base
+levels, turning very dim, blocking the flux again.
+The top panel represents what is actually recorded in the field, a
+catalog of earthquake times and epicenters. As the animation plays, you will
+see how the system activates intermittently, periodically producing swarms of
+earthquakes. When time slows down, you can spot fast migrations of the seismic
+activity along the fault.
+
+This animation allows us to articulate how
+the action unfolds behind the scenes. We see how fluid is densely packed at the
+bottom and depleted at the top of the channel, and then released in a swarm of
+events. We see how the fault channel zips closed and unzips as valves
+break, drawing the patterns that we record at the surface.
+
+The most simple models are often the furthest from our representation of our
+object of study and it makes it hard to represent them in a way that resembles
+how we see them. However, when reduced to the simplest, they allow us to tackle
+complex research questions. So what do you think? Is it fluid diffusion drawing
+patterns of seismicity?

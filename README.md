@@ -1,0 +1,1 @@
+The complete (synthetic) data used to produce this animation is quite difficult to share, because of its weight. In order to test the visualisation, you can download a lower resolution, shorter data set here. It describes a scaled down simulation.
