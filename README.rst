@@ -11,9 +11,9 @@ Dependencies to run the notebook
 
 Nothing fancy here, the version numbers I use to run the notebook are specified in
 between brackets, for reference:
-- matplotlib (3.2.1)
-- numpy (1.18.5)
-- jupyter_contrib_nbextensions (only esthetic, for cell folding)
+* matplotlib (3.2.1)
+* numpy (1.18.5)
+* jupyter_contrib_nbextensions (only esthetic, for cell folding)
 
 A word on the work this animation is an visualisation of
 --------------------------------------------------------
