@@ -1,4 +1,3 @@
-============================================================================
 Drawing patterns of seismicity -- Fluid/fault interplay in a subduction zone
 ============================================================================
 
@@ -8,7 +7,7 @@ data files are too big to be hosted here, only simplified data is provided,
 downsampled at times corresponding to the animation frames.
 
 Dependencies to run the notebook
-================================
+--------------------------------
 
 Nothing fancy here, the version numbers I use to run the notebook are specified in
 between brackets, for reference:
@@ -17,7 +16,7 @@ between brackets, for reference:
 - jupyter_contrib_nbextensions (only esthetic, for cell folding)
 
 A word on the work this animation is an visualisation of
-========================================================
+--------------------------------------------------------
 
 Subduction zones like the ones ashore of Japan, Alaska or Chile produce the
 largest earthquakes (up to magnitude 9), as an oceanic plate suddenly
@@ -55,12 +54,12 @@ The most simple models are often the furthest from how anyone sees of our
 object of study and it makes it hard to represent them in a compelling way. We hope this animation can bridge this gap: representative both of the geological observations, and of the clockwork of the model.
 
 Some references
-===============
+---------------
 Observations
-------------
+^^^^^^^^^^^^
 + Frank, W. B., Shapiro, N. M., Husker, A. L., Kostoglodov, V., Romanenko, A., & Campillo, M. (2014). Using systematically characterized low-frequency earthquakes as a fault probe in Guerrero, Mexico: FRANK ET AL. Journal of Geophysical Research: Solid Earth, 119(10), 7686–7700. https://doi.org/10.1002/2014JB011457
 + Frank, W. B., Shapiro, N. M., Husker, A. L., Kostoglodov, V., Gusev, A. A., & Campillo, M. (2016). The evolving interaction of low-frequency earthquakes during transient slip. Science Advances, 2(4), e1501616. https://doi.org/10.1126/sciadv.1501616
 
 Modeling fluid circulation and seismic activity
------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 + Shapiro, N. M., Campillo, M., Kaminski, E., Vilotte, J., & Jaupart, C. (2018). Low‐Frequency Earthquakes and Pore Pressure Transients in Subduction Zones. Geophysical Research Letters, 45(20). https://doi.org/10.1029/2018GL079893
