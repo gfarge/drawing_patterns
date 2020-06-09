@@ -7,9 +7,17 @@ Scipy 2020 Excellence in plotting contest. Because the complete
 data files are too big to be hosted here, only simplified data is provided,
 downsampled at times corresponding to the animation frames.
 
+Dependencies to run the notebook
+================================
+
+Nothing fancy here, the version numbers I use to run the notebook are specified in
+between brackets, for reference:
+- matplotlib (3.2.1)
+- numpy (1.18.5)
+- jupyter_contrib_nbextensions (only esthetic, for cell folding)
+
 A word on the work this animation is an visualisation of
 ========================================================
-
 
 Subduction zones like the ones ashore of Japan, Alaska or Chile produce the
 largest earthquakes (up to magnitude 9), as an oceanic plate suddenly
